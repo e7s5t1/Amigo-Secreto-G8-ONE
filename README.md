@@ -2,5 +2,4 @@
 Creación de README.md
 <h1>Versión 1.1</h1>
 Integración de archivos app, css y html para construcción de aplicativo final.
-<h1>Versión 1.2</h1>
 Modificación de colores para diferenciar.
